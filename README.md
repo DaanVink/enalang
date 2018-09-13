@@ -1,10 +1,10 @@
 ## EnaLang
 >EnaLang is a web-focussed language written in C
 
-EnaLang is part of the [Ena](https://github.com/DaanVink/Ena) project.
+EnaLang is part of the [Ena](https://github.com/EnaProject/Ena) project.
 EnaLang is written to be a simple, lightweight and easy to start with language, ideal for beginners and experts alike.
 
-While EnaLang is able to be compiled and executed as a standalone software, it is highly recommended to use it combination with [EnaGine](https://github.com/DaanVink/EnaGine).
+While EnaLang is able to be compiled and executed as a standalone software, it is highly recommended to use it combination with [EnaGine](https://github.com/EnaProject/EnaGine).
 When paired with EnaGine, EnaLang will be invoked when a user requests data from it.
 
 For more info on either the Ena project or EnaGine, please follow the links below.
@@ -18,13 +18,13 @@ For more info on either the Ena project or EnaGine, please follow the links belo
 ## Meta 
 
 
-Github: [https://github.com/DaanVink/Ena](https://github.com/DaanVink/Ena)
+Github: [https://github.com/DaanVink/Ena](https://github.com/EnaProject/Ena)
 
-Github EnaGine: [https://github.com/DaanVink/EnaGine](https://github.com/DaanVink/EnaGine)
+Github EnaGine: [https://github.com/DaanVink/EnaGine](https://github.com/EnaProject/EnaGine)
 
-Github EnaLang: [https://github.com/DaanVink/EnaLang](https://github.com/DaanVink/EnaLang)
+Github EnaLang: [https://github.com/DaanVink/EnaLang](https://github.com/EnaProject/EnaLang)
 
-Official Website: [https://GitHub.com/Ena](https://GitHub.com/Ena)
+Official Website: [https://GitHub.com/Ena](https://GitHub.com/EnaProject)
 
 ## License
 
